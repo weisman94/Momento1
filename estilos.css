@@ -1,0 +1,40 @@
+nav {
+  float: left;
+}
+ 
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+ 
+nav ul li {
+  float: right;
+  font-family: Arial;
+  font-size: 16px;
+}
+ 
+nav ul li a  {
+  display: block;
+  padding: 20px;
+  color: #000000 ;
+  text-decoration: none;
+}
+
+header {
+  background: #ffffff;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+nav ul li button {
+	margin-right: 200PX;
+}
+nav ul li input {
+	margin-left: 100PX;
+}
+
+
+
+
+
