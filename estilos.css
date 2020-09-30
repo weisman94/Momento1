@@ -39,14 +39,29 @@ nav ul li input {
   color:white;
   height:25%;
   width:100%;
-  margin-bottom:-1000px;
-  padding-bottom:1000px;
 }
 
 #data iframe {
   margin-top: 7%;
+  height:500px;
+  width: 75%;
 }
-
+#parteizquierda
+{
+  background-color:black;
+  width:75%;
+  height:200px;
+  float:left;
+  padding-bottom:200px;
+}
+#derecha
+{
+  margin-top: -40.1%;
+  width:23%;
+  height:712px;
+  background-color:red;
+  float:right;
+}
 
 
 
